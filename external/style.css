@@ -14,3 +14,17 @@ h2{
     height:200px;
     display: inline-block;
 }
+#main{
+    height: 700px;
+    width: 1600px;
+}
+#l1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+#l1{
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: justify;
+}
